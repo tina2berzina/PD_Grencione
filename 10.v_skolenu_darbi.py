@@ -1,29 +1,13 @@
 #Tatjana Grencione
 
-#1 Azarēviča Arina
+#1 Bērziņa Tīna
 
-#2 Bāra Antuanete
+#2 Burmistris Ernests
 
-#3 Boja Ernests
+#3 Jefremovs Ēriks Miķelis
 
-#4 Donovs Emīls Niks
+#4 Krastiņš Ričards
 
-#5 Feldmane Laura
+#5 Lielanse Dora Līva
 
-#6 Karpoviča Zlata
-
-#7 Kļimova Anna
-
-#8 Kokoreviča Diāna
-
-#9 Krastiņš Guntis
-
-#10 Ločmele Līva
-
-#11 Milliņš Māris
-
-#12 Plonis Gustavs
-
-#13 Strazdiņa Paula Marta
-
-#14 Vanags Renārs
+#6 Stramkale Emīlija
